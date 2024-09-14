@@ -11,8 +11,9 @@ Welcome to the RGBator application
 ## Installation
 ## For Just Exe
 ### Download RGBatorExe.zip, Unzip, and just run the Exe
-##For QT
-### 1) Get QT Framework
+## For QT
+### 1. Get QT Framework
+
 - First, install the latest version of the Qt Framework.
 - Download Qt Online Installer for your host: Linux, macOS, or Windows.
   
@@ -20,7 +21,7 @@ Welcome to the RGBator application
   
 ![qtinstallercomponents](https://github.com/Welly0007/RGBator/assets/91737992/ba0be8f1-cc96-4fe6-988e-f555a0471a90)
 
-### 2) Clone the rebo files
+### 2. Clone the repo files
 ```bash
   git clone git@github.com:Welly0007/RGBator.git
 ```
@@ -29,7 +30,7 @@ Welcome to the RGBator application
 - Download ZIP file
 ![Zip_File](https://github.com/Welly0007/RGBator/assets/91737992/15d98524-b529-42d3-a08b-173db65234a1)
 
-### 3) Run the application
+### 3. Run the application
 1) open the RGBator file "clone file"
 
 ![RGBator](https://github.com/Welly0007/RGBator/assets/91737992/f78faba5-f2aa-4c20-9ef5-8cfed7c91d37)
@@ -48,7 +49,7 @@ Can use run shortcut **[Ctrl + r]**
 
 ## Demo
 
-Video Link
+<[VIDEO HERE](https://youtu.be/c5XEqTIdGDY?si=gyVsHU0QcV1nYsiI)>
 
 ## Authors
 
